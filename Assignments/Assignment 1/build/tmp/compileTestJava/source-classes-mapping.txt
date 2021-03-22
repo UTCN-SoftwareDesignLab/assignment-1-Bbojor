@@ -1,0 +1,10 @@
+service/activity/ActivityServiceMySQLTest.java
+ service.activity.ActivityServiceMySQLTest
+service/user/UserServiceMySQLTest.java
+ service.user.UserServiceMySQLTest
+service/client/ClientServiceMySQLTest.java
+ service.client.ClientServiceMySQLTest
+service/account/AccountServiceMySQLTest.java
+ service.account.AccountServiceMySQLTest
+service/bill/BillServiceMySQLTest.java
+ service.bill.BillServiceMySQLTest
